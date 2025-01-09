@@ -12,10 +12,10 @@ I'm a Computer Science undergraduate at Daffodil International University. As a 
 ### 🏆 Competitive Programming Achievements
 
 - 🥉 **2nd Runner-Up** - ICT Division 7th DRMC International Tech Carnival 2024
-- 🎯 **Top 6%** - NCPC Preliminary JU 2023 (Rank 64)
-- 🏅 **Top 24%** - MIAKI PRESENTS KUET IUPC ONSITE 2025 (Rank 38)
-- 🏅 **Top 29%** - BUET CSE Fest 2024 (Rank 33)
-- 🏅 **Top 30%** - IUT 11th National ICT Fest Programming Contest (Rank 32)
+- 🎯 **Top 6%** - NCPC Preliminary JU 2023
+- 🏅 **Top 24%** - MIAKI PRESENTS KUET IUPC ONSITE 2025
+- 🏅 **Top 29%** - BUET CSE Fest 2024
+- 🏅 **Top 30%** - IUT 11th National ICT Fest Programming Contest
 
 ### 👑 University Level Achievements
 
