@@ -21,7 +21,7 @@ I'm a Computer Science undergraduate at Daffodil International University. As a 
 
 - 🥇 **Champion** - Googling Contest Spring 2024/2025
 - 🥇 **Champion** - Unlock the Algorithm Programming Contest Fall 2023
-- 🥇 **Champion** - DIU Take-Off Programming Contest Fall 2022
+- 🥇 **Champion** - DIU Take-Off Programming Contest Preliminary Fall 2022
 
 ### 🚀 Featured Projects
 
