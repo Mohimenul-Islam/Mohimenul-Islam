@@ -9,7 +9,7 @@
 
 I'm a Computer Science undergraduate at Daffodil International University. As a passionate competitive programmer and problem solver, I love tackling algorithmic challenges and building innovative solutions.
 
-### 🏆 Competitive Programming Achievements
+### 🏆 National Level Achievements
 
 - 🥉 **2nd Runner-Up** - ICT Division 7th DRMC International Tech Carnival 2024
 - 🎯 **Top 6%** - NCPC Preliminary JU 2023
