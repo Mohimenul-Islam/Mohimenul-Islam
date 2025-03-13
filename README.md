@@ -11,15 +11,15 @@ I'm a Computer Science undergraduate at Daffodil International University. As a 
 
 ### 🏆 National Level Achievements
 
-- 🥉 **2nd Runner-Up** - ICT Division 7th DRMC International Tech Carnival 2024
+- 🥉 **2nd Runner-Up** - ICT Division Presents 7th DRMC International Tech Carnival 2024 Programming Contest
 - 🎯 **Top 6%** - NCPC Preliminary JU 2023
 - 🏅 **Top 24%** - MIAKI PRESENTS KUET IUPC ONSITE 2025
-- 🏅 **Top 29%** - BUET CSE Fest 2024
-- 🏅 **Top 30%** - IUT 11th National ICT Fest Programming Contest
+- 🏅 **Top 29%** - Inter University Programming Contest | United Group Presents BUET CSE Fest 2024
+- 🏅 **Top 30%** - IUT 11th National ICT Fest Programming Contest 2024
 
 ### 👑 University Level Achievements
 
-- 🥇 **Champion** - Googling Contest Spring 2024/2025
+- 🥇 **Champion** - Googling Contest, Spring 2024
 - 🥇 **Champion** - Unlock the Algorithm Programming Contest Fall 2023
 - 🥇 **Champion** - DIU Take-Off Programming Contest Preliminary Fall 2022
 
