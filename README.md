@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Mohimenul Islam</h1>
-<h3 align="center">A Competitive Programmer & Full Stack Development Enthusiast from Bangladesh</h3>
+<h3 align="center">A Competitive Programmer & AI Enthusiast from Bangladesh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohimenul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,7 +7,8 @@
 
 ### 🎓 About Me
 
-I'm a Computer Science undergraduate at Daffodil International University. As a passionate competitive programmer and problem solver, I love tackling algorithmic challenges and building innovative solutions.
+I'm a Computer Science undergraduate at Daffodil International University, passionate about competitive programming and AI. I thrive on tackling algorithmic challenges, building innovative solutions, and currently exploring Retrieval-Augmented Generation (RAG) in AI.
+
 
 ### 🏆 National Level Achievements
 
@@ -16,6 +17,8 @@ I'm a Computer Science undergraduate at Daffodil International University. As a 
 - 🏅 **Top 24%** - MIAKI PRESENTS KUET IUPC ONSITE 2025
 - 🏅 **Top 29%** - Inter University Programming Contest | United Group Presents BUET CSE Fest 2024
 - 🏅 **Top 30%** - IUT 11th National ICT Fest Programming Contest 2024
+- 🏅 **Top 34%** - MTB Presents AUST Inter University Programming Contest 2025
+- 🏅 **Top 35%** - UIU Inter-University Programming Contest 2025
 
 ### 👑 University Level Achievements
 
