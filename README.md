@@ -52,7 +52,7 @@ Languages & Tools:
 
 ### 🤝 Leadership & Community
 
-- **Judging Director** at DIU Computer & Programming Club
+- **Judge and Problemsetter** at DIU Computer & Programming Club
 - **Programming Trainer** conducting sessions on DSA
 - **Instructor** for C-Khoon Spring 2024
 
