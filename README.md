@@ -10,7 +10,7 @@
 I'm a Computer Science undergraduate at Daffodil International University, passionate about competitive programming and AI. I thrive on tackling algorithmic challenges, building innovative solutions, and currently exploring Retrieval-Augmented Generation (RAG) in AI.
 
 
-### 🏆 National Level Achievements
+### 🏆 National Level Contest Finishes
 
 - 🥉 **2nd Runner-Up** - ICT Division Presents 7th DRMC International Tech Carnival 2024 Programming Contest
 - 🎯 **Top 6%** - NCPC Preliminary JU 2023
