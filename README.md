@@ -7,13 +7,14 @@
 
 ### 🎓 About Me
 
-I'm a Computer Science undergraduate at Daffodil International University, passionate about competitive programming and AI. I thrive on tackling algorithmic challenges, building innovative solutions, and currently exploring Retrieval-Augmented Generation (RAG) in AI.
+I'm a Computer Science undergraduate at Daffodil International University, passionate about competitive programming and AI. I thrive on tackling algorithmic challenges, building innovative solutions, and currently exploring AI and ML.
 
 
 ### 🏆 National Level Contest Finishes
 
 - 🥉 **2nd Runner-Up** - ICT Division Presents 7th DRMC International Tech Carnival 2024 Programming Contest
 - 🎯 **Top 6%** - NCPC Preliminary JU 2023
+- 🏅 **Top 16%** Betopia Group Presents DUET Inter University Programming Contest (IUPC) 2025
 - 🏅 **Top 24%** - MIAKI PRESENTS KUET IUPC ONSITE 2025
 - 🏅 **Top 29%** - Inter University Programming Contest | United Group Presents BUET CSE Fest 2024
 - 🏅 **Top 30%** - IUT 11th National ICT Fest Programming Contest 2024
