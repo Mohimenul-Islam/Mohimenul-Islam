@@ -1,21 +1,54 @@
-<h1 align="center">Hi 👋, I'm Md. Mohimenul Islam</h1>
-<h3 align="center">A Competitive Programmer & AI Enthusiast from Bangladesh</h3>
+# Mohimenul Islam
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohimenul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+**Competitive Programmer | Software Engineer**
 
-### 🎓 About Me
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert%20(1667)-blue? logo=codeforces)](https://codeforces.com/profile/Mohimenul)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-1500+-brightgreen)](#)
+[![Email](https://img.shields.io/badge/Email-mohimenul. islam07%40gmail.com-red? logo=gmail)](mailto:mohimenul.islam07@gmail.com)
 
-I'm a Computer Science undergraduate at Daffodil International University, passionate about competitive programming and AI. I thrive on tackling algorithmic challenges, building innovative solutions, and currently exploring AI and ML.
+---
 
+CS undergrad at Daffodil International University.  I solve algorithmic problems and build backend systems. 
 
-### 🏆 National Level Contest Finishes
+## What I Do
 
-- 🥉 **2nd Runner-Up** - ICT Division Presents 7th DRMC International Tech Carnival 2024 Programming Contest
-- 🎯 **Top 6%** - NCPC Preliminary JU 2023
-- 🏅 **Top 16%** Betopia Group Presents DUET Inter University Programming Contest (IUPC) 2025
-- 🏅 **Top 24%** - MIAKI PRESENTS KUET IUPC ONSITE 2025
+- **Competitive Programming** — 1500+ problems solved, ICPC Dhaka Regional top 1% preliminary, top 9% onsite
+- **Backend Development** — REST APIs with C# and ASP.NET Core
+- **Teaching** — Problem setter and instructor at DIU CPC, authored 20+ problems for 5000+ participants
+
+## Tech
+
+```
+C++ · C# · ASP.NET Core · MySQL · Entity Framework · Git · Linux
+```
+
+## Selected Projects
+
+**[Codeforces Randomizer API](https://github.com/Mohimenul-Islam/codeforces-randomizer-api)**  
+REST API that finds unsolved Codeforces problems for groups of users.  Parallel requests reduced response time by ~80%.
+
+**Educational Problems Management System**  
+CLI + Web tool for managing competitive programming problems.  Python backend, shell-scripted workflows.
+
+## Competitive Programming Highlights
+
+| Contest | Rank |
+|---------|------|
+| ICPC Dhaka Regional Preliminary 2025 | 21st / 1800+ |
+| ICPC Dhaka Regional Onsite 2025 | 27th / 300+ |
+| NCPC Preliminary JU 2023 | 65th / 1100+ |
+| NWU IUPC 2025 | 🥉 2nd Runner-Up |
+| DRMC Programming Contest 2024 | 🥉 2nd Runner-Up |
+
+## Links
+
+- [Codeforces](https://codeforces.com/profile/Mohimenul-Islam)
+- [LeetCode](https://leetcode.com/Mohimenul-Islam)
+- [Email](mailto:mohimenul.islam07@gmail.com)
+
+---
+
+*Currently open to backend/software engineering opportunities.*- 🏅 **Top 24%** - MIAKI PRESENTS KUET IUPC ONSITE 2025
 - 🏅 **Top 29%** - Inter University Programming Contest | United Group Presents BUET CSE Fest 2024
 - 🏅 **Top 30%** - IUT 11th National ICT Fest Programming Contest 2024
 - 🏅 **Top 34%** - MTB Presents AUST Inter University Programming Contest 2025
