@@ -1,6 +1,6 @@
 # Hi 👋, I'm Md. Mohimenul Islam
 
-### Competitive Programmer | 2x ICPC Regionalist | Full-Stack Developer
+### Competitive Programmer | 2x ICPC Regionalist | AI & Backend Engineer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohimenul-Islam&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -10,11 +10,9 @@
 
 ### 🚀 About Me
 
-- 🎓 **CSE Undergrad** at Daffodil International University (CGPA: 3.80/4.00)
 - 🏆 **1500+ DSA problems** solved across various online judges
 - 🏅 **2x ICPC Regionalist** | Multiple IUPC podium finisher | Multiple Intra University Champion
-- 💻 **Full-Stack Developer** with ASP.NET Core
-- 👨‍🏫 **Problem Setter & Instructor** at DIU Computer & Programming Club
+- 💻 **AI & Backend Engineer** with C#, ASP.NET Core, TS, LLM
 
 ---
 
@@ -31,7 +29,7 @@
 | Platform | Achievement |
 |----------|-------------|
 | [![Codeforces](https://img.shields.io/badge/Codeforces-Expert-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/mohimenul) | **Expert** (Max: 1667) • Top 10% globally |
-| [![ICPC](https://img.shields.io/badge/ICPC-2x_Regionalist-orange?style=flat)](https://bapsoj.org/contests/icpc-dhaka-onsite-2025/standings) | **21st/1800+** Prelim • **27th/300+** Onsite 2025 |
+| [![ICPC](https://img.shields.io/badge/ICPC-2x_Regionalist-orange?style=flat)](https://bapsoj.org/contests/icpc-dhaka-onsite-2025/standings) | **21st/1800+** Prelim • **Asia-West Finalist** |
 | ![Problems](https://img.shields.io/badge/Problems-1500+-brightgreen?style=flat) | DSA problems solved |
 | ![SQL](https://img.shields.io/badge/SQL-30+-blue?style=flat&logo=mysql) | LeetCode & HackerRank |
 
